@@ -1,0 +1,16 @@
+# 忽略所有文件
+*
+
+# 白名單 README.md 文件
+!README.md
+!.gitignore
+
+# 白名單目錄，允許追蹤該目錄及其子目錄和文件
+!Project/
+!Project/Assets/
+!Project/Assets/ML-Agents/
+!Project/Assets/ML-Agents/Examples/
+!Project/Assets/ML-Agents/Examples/Crawler/
+
+!Project/Assets/ML-Agents/Examples/Crawler/**
+
