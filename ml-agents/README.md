@@ -1,2 +1,2 @@
 This is the Unity-Technologies/ml-agents open-source project on GitHub, which allows games and simulations to be used as environments for training intelligent agents.
-We are using the Crawler project for our special studies.
+We are using the Crawler project for our capstone Project.
